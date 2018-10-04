@@ -1,4 +1,4 @@
-# hello-world
+# HELLO-WORLD
 First time, coding-like.
 
 Hello, everyone. For some time, I've been a fan of data analytics.
