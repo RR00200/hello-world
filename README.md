@@ -10,8 +10,8 @@ And now I am here to learn something more about it.
 * close it
 ### TEST
 ## TEST
-* check
-* check
+* *check*
+* **check**
 
 <ul>
 <li>Test</li>
@@ -20,3 +20,5 @@ And now I am here to learn something more about it.
 <li>Magic</li>
 <li>Test</li>
 </ul>
+
+请看 [windows下Git BASH安装](https://blog.csdn.net/weixin_41714277/article/details/79399270)
